@@ -1,3 +1,6 @@
+# **Go to [CamdenClark/ResumeDiscordBot](https://github.com/CamdenClark/ResumeDiscordBot) because commits go directly there now**
+
+
 # ResumeDiscordBot
 A discord bot to facilitate resume reviewing on the Twitch Plays Programming Discord server
 
