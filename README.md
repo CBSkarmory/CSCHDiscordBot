@@ -1,4 +1,4 @@
-# **Go to [CamdenClark/CCHDiscordBot](https://github.com/CamdenClark/CCHDiscordBot) because commits go directly there now**
+# **Go to [CamdenClark/CSCHDiscordBot](https://github.com/CamdenClark/CSCHDiscordBot) because commits go directly there now**
 
 ## ResumeDiscordBot
 A discord bot to facilitate resume reviewing, role assignment, and interview scheduling on the Twitch Plays Programming Discord server
